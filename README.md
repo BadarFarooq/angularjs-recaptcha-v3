@@ -6,7 +6,7 @@ This is a simple Google ReCaptcha v3 wrapper for AngularJS (1.x). Inject the mod
 ## Getting Started ##
 
 Install Script
-``` npm install angularjs-google-recaptcha-v3 ```
+``` npm install angularjs-recaptcha-v3 ```
 
 Include the Script
 
