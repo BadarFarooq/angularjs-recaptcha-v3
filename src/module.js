@@ -2,5 +2,5 @@
 (function (ng) {
 	'use strict';
 
-	ng.module('fayzaan.gRecaptcha.v3', []);
+	ng.module('gRecaptcha.v3', []);
 }(angular));

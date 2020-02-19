@@ -3,7 +3,7 @@
 (function (ng) {
 	'use strict';
 
-	var app = ng.module('fayzaan.gRecaptcha.v3');
+	var app = ng.module('gRecaptcha.v3');
 
 	app.provider('gRecaptcha', function () {
 		var service = this;

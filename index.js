@@ -1,2 +1,2 @@
-require('./release/angularjs-google-recaptcha-v3');
+require('./release/angularjs-recaptcha-v3');
 module.exports = 'gRecaptcha';
