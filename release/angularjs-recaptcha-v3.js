@@ -26,7 +26,7 @@
 
 				function writeScript () {
 		      var tag = document.createElement('script');
-		      tag.src = url + '?render=' + key + '&onload=' + onLoadFunctionName + '&render=explicit';
+		      tag.src = url + '?render=' + key + '&onload=' + onLoadFunctionName;
 		      $document.find('body')[0].appendChild(tag);
 		    }
 
