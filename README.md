@@ -6,17 +6,17 @@ This is a simple Google ReCaptcha v3 wrapper for AngularJS (1.x). Inject the mod
 ## Getting Started ##
 
 Install Script
-``` npm install angularjs-google-recaptcha-v3 ```
+``` npm install angularjs-recaptcha-v3 ```
 
 Include the Script
 
 ```
-<script src="node_modules/angularjs-google-recaptcha-v3/release/angularjs-google-recaptcha-v3.js"></script>
+<script src="node_modules/angularjs-google-recaptcha-v3/release/angularjs-recaptcha-v3.js"></script>
 ```
 
 Add as dependency to your app
 
-```angular.module('myApp', ['fayzaan.gRecaptcha.v3']);```
+```angular.module('myApp', ['gRecaptcha.v3']);```
 
 Initialize before use
 
